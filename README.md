@@ -4,7 +4,11 @@
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/toby-collins-7278241a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/toby-collins-7278241a4/">
+      <img src="ttps://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=Codewars&logoColor=red" alt="Codewars Badge"/>
+    </a>
   </div>
 </div>
 
