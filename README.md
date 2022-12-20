@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.codewars.com/users/TGCollins">
-      <img src="ttps://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=Codewars&logoColor=red" alt="Codewars Badge"/>
+      <img src="ttps://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=Codewars&logoColor=red" alt="CodeWars Badge"/>
     </a>
   </div>
 </div>
