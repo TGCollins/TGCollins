@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="300"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/toby-collins-7278241a4/">
