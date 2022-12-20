@@ -1,6 +1,10 @@
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="400"/>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 
