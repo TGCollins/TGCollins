@@ -16,3 +16,16 @@
     </div>
   </div>
 </div>
+
+---
+
+### 👨‍💻  About Me :
+
+---
+
+### Languages and Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>
+</div>
