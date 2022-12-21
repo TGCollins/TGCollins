@@ -3,7 +3,6 @@
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="300"/>
-  
   <div id="badges">
     <a href="https://www.linkedin.com/in/toby-collins-7278241a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,9 +18,14 @@
   </div>
 </div>
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 ---
 
 ### 👨‍💻  About Me :
+
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 ---
 
