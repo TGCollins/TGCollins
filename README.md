@@ -34,7 +34,6 @@ I'm a Helpdesk Technician, with a mathematics degree (First Class Honours). I lo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGCollins&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=TGCollins)](https://solved.ac/TGCollins)
 
   <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="300"/>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
