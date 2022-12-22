@@ -1,19 +1,8 @@
-
 ### <samp>&gt; Hi there, I'm Toby <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<div id="header">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/toby-collins-7278241a4/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.codewars.com/users/TGCollins">
-      <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
-    </a>      
-    <a>
-      <img src="https://komarev.com/ghpvc/?username=TGCollins&style=flat-square&color=blue" alt=""/>
-    </a>
-  </div>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toby-collins-7278241a4/)
+[![Codewars Badge](https://img.shields.io/badge/-Codewars-red?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/TGCollins)
+![Views Badge](https://komarev.com/ghpvc/?username=TGCollins&style=flat-square&color=blue)
 
 ---
 
