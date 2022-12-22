@@ -1,4 +1,5 @@
-### <samp>&gt; Hi there, I'm Toby <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Toby</h1>
+<h3 align="center">A self-taught software engineer</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toby-collins-7278241a4/)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-red?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/TGCollins)
@@ -10,7 +11,7 @@
 
 I'm a Helpdesk Technician, with a mathematics degree (First Class Honours). I love programming, photography and travelling.
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning infrasture and data structures
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Data structures and Infrastructure**
 - 🔭 In my free time I enjoy solving problems on codewars
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Toby_Collins-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toby-collins-7278241a4/)
 
@@ -18,23 +19,19 @@ I'm a Helpdesk Technician, with a mathematics degree (First Class Honours). I lo
 
 ---
 
-### Languages and Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TGCollins&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGCollins&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TGCollins&theme=dark&background=000000" alt="tgcollins" /></p>
 
-![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGCollins&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TGCollins&show_icons=true&theme=radical" alt="tgcollins" /></p>
 
-  <img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="300"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGCollins&layout=compact&theme=vision-friendly-dark" alt="TGCollins" /></p>
+
+<img src="https://user-images.githubusercontent.com/106698921/208683348-6bb31358-c241-4736-bebe-7e9bc5c8137f.gif" width="300"/>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
