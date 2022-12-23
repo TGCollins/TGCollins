@@ -29,6 +29,7 @@ I'm a Helpdesk Technician, with a mathematics degree (First Class Honours). I lo
 <h3 align="left">🔥 My Stats: </h3>
 
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TGCollins&theme=dark&background=000000" alt="tgcollins" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TGCollins&show_icons=true&theme=radical" alt="tgcollins" /></p>
-<p><img align="left" src="https://github.r2v.ch/codewars?user=TGCollins&stroke=%23BB432C" alt="tgcollins" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGCollins&layout=compact&theme=vision-friendly-dark" alt="TGCollins" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TGCollins&show_icons=true&theme=radical" alt="tgcollins" /></p>
+<p><img align="left" src="https://github.r2v.ch/codewars?user=TGCollins&stroke=%23BB432C" alt="tgcollins" /></p>
+
