@@ -14,7 +14,7 @@
 I'm a Helpdesk Technician, with a mathematics degree (First Class Honours). I love programming, photography and travelling.
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **Data structures and Infrastructure**
-- 🔭 In my free time I enjoy *solving problems on codewars and leetcode*
+- 🔭 In my free time I enjoy **solving problems on codewars and leetcode**
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Toby_Collins-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toby-collins-7278241a4/)
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"  /></p>
