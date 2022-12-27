@@ -1,5 +1,3 @@
-
-<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TGCollins&theme=dark&background=000000" alt="tgcollins" /></p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Toby</h1>
 <h3 align="center">A self-taught software engineer</h3>
 
